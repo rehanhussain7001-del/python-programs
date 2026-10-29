@@ -9,9 +9,3 @@ for i in a :
 print(L)
 str_2=" ".join(L)
 print(str_2)
-
-
-
-
-    
-    
