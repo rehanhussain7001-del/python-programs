@@ -4,3 +4,6 @@ r =(1)
 print(type(t)) # tuple
 print(type(r)) # int
 
+t2 = tuple("rehan")
+print(t2)
+
